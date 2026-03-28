@@ -1,0 +1,12 @@
+{
+  "python.languageServer": "Jedi",
+  "python.analysis.typeCheckingMode": "basic",
+  "python.analysis.extraPaths": [
+    "${workspaceFolder}/jarvis-backend"
+  ],
+  "python.analysis.reportMissingModuleSource": false,
+  "python.analysis.reportAttributeAccessIssue": false,
+  "[python]": {
+    "editor.defaultFormatter": "ms-python.python"
+  }
+}
