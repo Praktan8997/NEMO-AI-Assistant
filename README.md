@@ -251,6 +251,5 @@ This project is open source. Feel free to use, modify, and distribute.
 ---
 
 <div align="center">
-  <strong>Built with ❤️ by Praktan8997</strong><br/>
   <sub>NEMO — Neural Engine for Multi-agent Orchestration</sub>
 </div>
